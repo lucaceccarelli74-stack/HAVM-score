@@ -20,3 +20,5 @@ Open the published URL in Safari -> Share -> Add to Home Screen.
 
 INSTALL ON ANDROID
 Open the published URL in Chrome -> menu -> Add to Home screen / Install app.
+
+HAVM Score PWA
